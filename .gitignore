@@ -1,0 +1,14 @@
+.DS_Store
+*/.DS_Store
+*.pyc
+*.png
+log_*.txt
+
+rendered_sample/
+example_data/
+example_rendered/
+sample_render/
+visu/
+
+dataset_*/
+log_*/
